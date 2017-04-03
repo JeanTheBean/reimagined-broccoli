@@ -1,0 +1,141 @@
+body{
+	background-color: #8f89d9;
+	font-family: Baskerville Old Face, sans-serif;
+	cursor: url(cursor.gif), auto;
+	overflow-y: scroll;
+}
+ul{
+	list-style-type: circle;
+}
+.header{
+	text-align: center;
+	background-color: #ccafeb;
+	color: #6c3ba1;
+	margin: 1%;
+	margin-top: -1%;
+}
+.cornerpic{
+	/*<img style="position: fixed; z-index: 0; bottom: 0; right: 0;" src="Pictures\C1\calm oregon.png">*/
+	position: fixed;
+	z-index: 0;
+	bottom: 0;
+	right: 1.5%;
+	
+	
+}
+h1{
+	font-family: Brush Script MT, serif;
+	font-size: 3.1em;
+}
+h2{
+	font-size: 2em;
+}
+p{
+	font-size: 1.25em;
+}
+.slightlylarge{
+	font-size: 1.75em;
+}
+.cpage{
+	padding: 1%;
+	margin: 1%;
+	background-color: #b8b4ed;
+	color: #4b44a6;
+}
+.menu{
+	float: left;
+	width: 13.5%;
+	margin-left: 1%;
+	/*padding: 1%;*/
+	background-color: #aecbea;
+	color: #39699b;
+	text-align: center;
+}
+.main{ 
+	width: 81.5%;
+	padding: 1%;
+	margin-right: 1%;
+	float: right;
+	background-color: #b8b4ed;
+	color: #4b44a6;
+}
+.prev{
+	float: left;
+	width: 50%;
+	margin: auto;
+}
+.next{
+	float: right;
+	width: 50%;
+	margin: auto;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	max-width: 100%;
+	max-height: auto;
+}
+.center{
+	text-align: center;
+}
+.bold{
+	font-weight: bold;
+}
+.blog{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1%;
+	background-color: #dfddfa;
+}
+.disclaimer{
+	clear: both;
+	text-align: center;
+	margin-top: 5%;
+	color: black;
+	font-size: 8pt;
+	font-family: Times New Roman, serif;
+}
+a.titlink:link{
+	text-decoration: none;
+	color: #6c3ba1;
+}
+a.titlink:hover{
+	text-decoration: none;
+	color: #6c3ba1;
+}
+a.titlink:visited{
+	text-decoration: none;
+	color: #6c3ba1;
+}
+a.pie:link{
+	text-decoration: none;
+	color: #39699b;
+}
+a.pie:hover{
+	text-decoration: none;
+	color: #5886b6;
+}
+a.pie:visited{
+	text-decoration: none;
+	color: #80a9d3;
+}
+a.nopie:link{
+	text-decoration: none;
+	color: #39699b;
+}
+a.nopie:hover{
+	text-decoration: none;
+	color: #39699b;
+}
+a.nopie:visited{
+	text-decoration: none;
+	color: #39699b;
+}
+a.disclaimer:link{
+	color: blue;
+}
+a.disclaimer:visited{
+	color: purple;
+}
