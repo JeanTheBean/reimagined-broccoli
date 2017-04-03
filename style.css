@@ -1,7 +1,7 @@
 body{
 	background-color: #FFb370;
 	font-family: Baskerville Old Face, sans-serif;
-	cursor: url(cursor.gif), auto;
+	/* cursor: url(cursor.gif), auto; */
 	overflow-y: scroll;
 }
 ul{
@@ -25,7 +25,7 @@ ul{
 }
 */
 h1{
-	font-family: Brush Script MT, serif;
+	font-family: Arial, serif;
 	font-size: 3.1em;
 }
 h2{
@@ -43,11 +43,10 @@ p{
 	background-color: #b8b4ed;
 	color: #4b44a6;
 }
-.menu{
+/* .menu{
 	float: left;
 	width: 13.5%;
 	margin-left: 1%;
-	/*padding: 1%;*/
 	background-color: #66ea77;
 	color: #00c618;
 	text-align: center;
@@ -57,6 +56,13 @@ p{
 	padding: 1%;
 	margin-right: 1%;
 	float: right;
+	background-color: #ffb370;
+	color: #ff7800;
+} */
+.main{
+	width: 95%;
+	padding: 1%;
+	float: center;
 	background-color: #ffb370;
 	color: #ff7800;
 }
