@@ -1,5 +1,5 @@
 body{
-	background-color: #8f89d9;
+	background-color: #FFb370;
 	font-family: Baskerville Old Face, sans-serif;
 	cursor: url(cursor.gif), auto;
 	overflow-y: scroll;
@@ -9,20 +9,21 @@ ul{
 }
 .header{
 	text-align: center;
-	background-color: #ccafeb;
-	color: #6c3ba1;
+	background-color: #708ee0;
+	color: #103aac;
 	margin: 1%;
 	margin-top: -1%;
 }
+/*
 .cornerpic{
-	/*<img style="position: fixed; z-index: 0; bottom: 0; right: 0;" src="Pictures\C1\calm oregon.png">*/
+	<img style="position: fixed; z-index: 0; bottom: 0; right: 0;" src="[insert pic file here]">
 	position: fixed;
 	z-index: 0;
 	bottom: 0;
 	right: 1.5%;
 	
-	
 }
+*/
 h1{
 	font-family: Brush Script MT, serif;
 	font-size: 3.1em;
@@ -47,8 +48,8 @@ p{
 	width: 13.5%;
 	margin-left: 1%;
 	/*padding: 1%;*/
-	background-color: #aecbea;
-	color: #39699b;
+	background-color: #66ea77;
+	color: #00c618;
 	text-align: center;
 }
 .main{ 
@@ -56,8 +57,8 @@ p{
 	padding: 1%;
 	margin-right: 1%;
 	float: right;
-	background-color: #b8b4ed;
-	color: #4b44a6;
+	background-color: #ffb370;
+	color: #ff7800;
 }
 .prev{
 	float: left;
